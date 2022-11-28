@@ -1,12 +1,11 @@
 {
-    "name": "Redox-W", 
+    "name": "Redox-W",
     "matrix": {"rows": 5, "cols": 14},
     "layouts": {
         "keymap":[
           [
             {
-              "x": 3.5,
-              "a": 7
+              "x": 3.5
             },
             "0,3",
             {
