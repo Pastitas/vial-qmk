@@ -1,10 +1,13 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 LTO_ENABLE = yes
+COMBO_ENABLE = yes
+MOUSEKEY_ENABLE = yes
 
-MOUSEKEY_ENABLE = no
 COMMAND_ENABLE = no        # Commands for debug and configuration
 RGBLIGHT_ENABLE = no       # Enable WS2812 RGB underlight.
+KEY_OVERRIDE_ENABLE = no
+TAP_DANCE_ENABLE = no
 
 UNICODE_ENABLE = no
 OLED_DRIVER_ENABLE = no
